@@ -1,0 +1,12 @@
+body {
+	font-family:"Trebuchet MS", Helvetica, sans-serif;
+	font-size:1em;
+	background-color:#fdf6ee;
+	padding:1px 100px 1px 100px;
+}
+p.firstp::first-letter {
+	font-size:1.5em;
+}
+header {
+	text-align:right;
+}
